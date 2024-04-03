@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="extra_small">8dp</dimen>
+    <dimen name="small">16dp</dimen>
+    <dimen name="medium">24dp</dimen>
+
+    <dimen name="border_content_list_view">30dp</dimen>
+</resources>

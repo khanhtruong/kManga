@@ -1,0 +1,4 @@
+<resources>
+    <string name="preference_file_name">KMangaSecret</string>
+    <string name="app_name">kManga</string>
+</resources>
